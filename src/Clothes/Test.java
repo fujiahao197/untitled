@@ -27,7 +27,7 @@ public class Test {
         Pants jeans = new Pants();
         jeans.setKind("牛仔裤");
         jeans.setPantsId(3);
-        jeans.setColor("蓝色");
+        jeans.setColor("黑色");
         jeans.setSize("XXL");
         jeans.setMaterials("布");
 
