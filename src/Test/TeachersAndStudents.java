@@ -8,7 +8,7 @@ public class TeachersAndStudents {
          * 一对多
          */
         Teachers lilaoshi = new Teachers();
-        lilaoshi.setName("李老师");
+        lilaoshi.setName("李 老师");
 
         /**
          * 多对多，老师和学生
