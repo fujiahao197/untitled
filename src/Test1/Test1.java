@@ -49,7 +49,7 @@ public class Test1 {
         Pants niuzaiku = new Pants();
         niuzaiku.setPantsId(22);
         niuzaiku.setPantsKind("牛仔裤");
-        niuzaiku.setPantsColor("黑色");
+        niuzaiku.setPantsColor("黑yan色");
         niuzaiku.setPantsSize("XL");
 
         Pants yundongku = new Pants();
